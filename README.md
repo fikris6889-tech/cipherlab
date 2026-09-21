@@ -78,8 +78,6 @@ follow-up exercise once you're comfortable with this codebase.
 
 ## GitHub repo
 
-Code is written, tested, and committed **locally** in this repo
-(`daily-teaching-series`). Push to GitHub is pending Frank's manual
-`git push` from his machine, since this automation's network egress
-blocks github.com. Once pushed, this project will be live at:
-<https://github.com/fikris6889-tech/daily-teaching-series>
+This project is live at: <https://github.com/fikris6889-tech/cipherlab>
+
+Part of the **Fikris Lab** portfolio of systems and algorithms projects: <https://github.com/fikris6889-tech/Fikris-lab>
